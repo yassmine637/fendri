@@ -15,7 +15,6 @@ export default function Home() {
       <About />
       <Factory />
       <Product />
-      <ProductViewer />
       <Awards />
       <Contact />
     </>
