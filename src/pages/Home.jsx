@@ -5,7 +5,6 @@ import Factory from '../components/Factory';
 import Product from '../components/Product';
 import Awards from '../components/Awards';
 import Contact from '../components/Contact';
-import ProductViewer from "../components/ProductViewer";
 
 
 export default function Home() {
